@@ -78,7 +78,7 @@
     <Compile Include="Assets\Holograms\Support\Spatial Mapping\SpatialMapping.cs" />
     <Compile Include="Assets\Holograms\Support\Underworld\UnderworldReset.cs" />
     <Compile Include="Assets\Holograms\Support\Underworld\UnderworldSound.cs" />
-    <Compile Include="Assets\Scripts\CardCommand.cs" />
+    <Compile Include="Assets\Scripts\AppControl.cs" />
     <Compile Include="Assets\Scripts\Cortana.cs" />
     <Compile Include="Assets\Scripts\GazeGestureManager.cs" />
     <Compile Include="Assets\Scripts\SpeechManager.cs" />

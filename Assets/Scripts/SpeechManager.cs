@@ -27,6 +27,11 @@ public class SpeechManager : MonoBehaviour
             }
         });
 
+        keywords.Add("Switch", () =>
+        {
+            this.BroadcastMessage("OnSwitch");
+        });
+
         // Tell the KeywordRecognizer about our keywords.
         keywordRecognizer = new KeywordRecognizer(keywords.Keys.ToArray());
 
