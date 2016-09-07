@@ -16,7 +16,7 @@
     <CompilerResponseFile></CompilerResponseFile>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>WSAPlayer:21</UnityBuildTarget>
-    <UnityVersion>5.4.0f1-HTP</UnityVersion>
+    <UnityVersion>5.4.0f3-HTP</UnityVersion>
     <RootNamespace></RootNamespace>
     <LangVersion Condition=" '$(VisualStudioVersion)' != '10.0' ">4</LangVersion>
   </PropertyGroup>
@@ -27,7 +27,7 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_0;UNITY_5_4;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;ENABLE_HOLOLENS_MODULE_API;UNITY_METRO;UNITY_METRO_API;UNITY_WINRT;ENABLE_WINRT_PINVOKE;ENABLE_TEXTUREID_MAP;ENABLE_LAZY_METHOD_CACHING;ENABLE_MOVIES;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_EVENT_QUEUE;ENABLE_NETWORK;ENABLE_EVENT_QUEUE;UNITY_PLATFORM_THREAD_TO_CORE_MAPPING;ENABLE_SUBSTANCE;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYWEBREQUEST;CURL_STATICLIB;UNITY_WSA;ENABLE_DOTNET;ENABLE_PROFILER;UNITY_WSA_10_0;UNITY_WINRT_10_0;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;ENABLE_VSTU</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_0;UNITY_5_4;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;ENABLE_HOLOLENS_MODULE_API;UNITY_METRO;UNITY_METRO_API;UNITY_WINRT;ENABLE_WINRT_PINVOKE;ENABLE_TEXTUREID_MAP;ENABLE_LAZY_METHOD_CACHING;ENABLE_MOVIES;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_EVENT_QUEUE;ENABLE_NETWORK;ENABLE_EVENT_QUEUE;UNITY_PLATFORM_THREAD_TO_CORE_MAPPING;ENABLE_SUBSTANCE;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYWEBREQUEST;CURL_STATICLIB;UNITY_WSA;ENABLE_DOTNET;ENABLE_PROFILER;UNITY_WSA_10_0;UNITY_WINRT_10_0;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;ENABLE_VSTU;VUFORIA_WSA_SETTINGS</DefineConstants>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -37,7 +37,7 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_0;UNITY_5_4;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;ENABLE_HOLOLENS_MODULE_API;UNITY_METRO;UNITY_METRO_API;UNITY_WINRT;ENABLE_WINRT_PINVOKE;ENABLE_TEXTUREID_MAP;ENABLE_LAZY_METHOD_CACHING;ENABLE_MOVIES;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_EVENT_QUEUE;ENABLE_NETWORK;ENABLE_EVENT_QUEUE;UNITY_PLATFORM_THREAD_TO_CORE_MAPPING;ENABLE_SUBSTANCE;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYWEBREQUEST;CURL_STATICLIB;UNITY_WSA;ENABLE_DOTNET;ENABLE_PROFILER;UNITY_WSA_10_0;UNITY_WINRT_10_0;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;ENABLE_VSTU</DefineConstants>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_0;UNITY_5_4;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;ENABLE_HOLOLENS_MODULE_API;UNITY_METRO;UNITY_METRO_API;UNITY_WINRT;ENABLE_WINRT_PINVOKE;ENABLE_TEXTUREID_MAP;ENABLE_LAZY_METHOD_CACHING;ENABLE_MOVIES;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_EVENT_QUEUE;ENABLE_NETWORK;ENABLE_EVENT_QUEUE;UNITY_PLATFORM_THREAD_TO_CORE_MAPPING;ENABLE_SUBSTANCE;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYWEBREQUEST;CURL_STATICLIB;UNITY_WSA;ENABLE_DOTNET;ENABLE_PROFILER;UNITY_WSA_10_0;UNITY_WINRT_10_0;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;ENABLE_VSTU;VUFORIA_WSA_SETTINGS</DefineConstants>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
@@ -70,8 +70,20 @@
     <Reference Include="Mono.Cecil">
       <HintPath>Library\UnityAssemblies\Mono.Cecil.dll</HintPath>
     </Reference>
+    <Reference Include="Vuforia.UnityExtensions">
+      <HintPath>Assets\Vuforia\Scripts\Internal\Vuforia.UnityExtensions.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Common\CameraSettings.cs" />
+    <Compile Include="Assets\Common\InitErrorHandler.cs" />
+    <Compile Include="Assets\Common\MenuAnimator.cs" />
+    <Compile Include="Assets\Common\MenuOptions.cs" />
+    <Compile Include="Assets\Common\SplashAbout\AboutScreen.cs" />
+    <Compile Include="Assets\Common\SplashAbout\AsyncSceneLoader.cs" />
+    <Compile Include="Assets\Common\SplashAbout\LoadingScreen.cs" />
+    <Compile Include="Assets\Common\TapHandler.cs" />
+    <Compile Include="Assets\Common\TrackableSettings.cs" />
     <Compile Include="Assets\Holograms\Support\AniCrane\AnimationSpeed.cs" />
     <Compile Include="Assets\Holograms\Support\Fitbox\Fitbox.cs" />
     <Compile Include="Assets\Holograms\Support\Fitbox\Interpolator.cs" />
@@ -83,14 +95,73 @@
     <Compile Include="Assets\Scripts\GazeGestureManager.cs" />
     <Compile Include="Assets\Scripts\SpeechManager.cs" />
     <Compile Include="Assets\Scripts\TapToPlaceParent.cs" />
+    <Compile Include="Assets\Scripts\VoiceCommands.cs" />
     <Compile Include="Assets\Scripts\WorldCursor.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\DatabaseLoadBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\DefaultSmartTerrainEventHandler.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\DeviceTrackerBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\DigitalEyewearBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\GLErrorHandler.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\HideExcessAreaBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\ImageTargetBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Internal\AndroidUnityPlayer.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Internal\ComponentFactoryStarterBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Internal\IOSUnityPlayer.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Internal\VuforiaBehaviourComponentFactory.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Internal\WSAUnityPlayer.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\KeepAliveBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\MarkerBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\MaskOutBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\MultiTargetBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\ObjectTargetBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\PropBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\ReconstructionBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\ReconstructionFromTargetBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\SmartTerrainTrackerBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\SurfaceBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\TextRecoBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\TurnOffBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\TurnOffWordBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\UserDefinedTargetBuildingBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Utilities\VRIntegrationHelper.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\VideoBackgroundBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\VideoBackgroundManager.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\VirtualButtonBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\VuMarkBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\VuforiaBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\WebCamBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\WireframeBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\WireframeTrackableEventHandler.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\WordBehaviour.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Cortana1\Extra Readme.txt" />
     <None Include="Assets\Cortana2\Extra Readme.txt" />
+    <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
     <None Include="Assets\Resources\DebugNormals.shader" />
     <None Include="Assets\Resources\Occlusion.shader" />
     <None Include="Assets\Resources\Wireframe.shader" />
+    <None Include="Assets\StreamingAssets\QCAR\Cortana.xml" />
+    <None Include="Assets\StreamingAssets\QCAR\StonesAndChips.xml" />
+    <None Include="Assets\Vuforia\Editor\Scripts\Vuforia.UnityExtensions.Editor.XML" />
+    <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
+    <None Include="Assets\Vuforia\Scripts\Internal\Vuforia.UnityExtensions.XML" />
+    <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
+    <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
+    <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
+    <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
+    <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
+    <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
+    <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
+    <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
+    <None Include="Assets\license_3rdpartynotice.txt" />
+    <None Include="Assets\link.xml" />
+    <None Include="Assets\readme_SDK.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
